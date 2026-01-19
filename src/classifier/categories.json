@@ -1,0 +1,413 @@
+{
+      "categories": {
+            "Vấn đề kỹ thuật": {
+                  "keywords": [
+                        "lỗi",
+                        "không hoạt động",
+                        "gặp vấn đề",
+                        "bug",
+                        "crash",
+                        "error"
+                  ],
+                  "examples": [
+                        "Làm sao sửa lỗi này?",
+                        "Ứng dụng bị crash",
+                        "Tôi gặp vấn đề kỹ thuật"
+                  ]
+            },
+            "Giá cả và thanh toán": {
+                  "keywords": [
+                        "giá",
+                        "chi phí",
+                        "tiền",
+                        "thanh toán",
+                        "hóa đơn",
+                        "tính phí"
+                  ],
+                  "examples": [
+                        "Giá sản phẩm bao nhiêu?",
+                        "Chi phí hàng tháng là gì?",
+                        "Bao giờ thanh toán?"
+                  ]
+            },
+            "Tính năng sản phẩm": {
+                  "keywords": [
+                        "tính năng",
+                        "có thể",
+                        "làm được",
+                        "hỗ trợ",
+                        "khả năng",
+                        "chức năng"
+                  ],
+                  "examples": [
+                        "Nó có hỗ trợ tính năng X không?",
+                        "Làm sao dùng chức năng này?"
+                  ]
+            },
+            "Tài khoản và đăng nhập": {
+                  "keywords": [
+                        "tài khoản",
+                        "đăng nhập",
+                        "mật khẩu",
+                        "đăng ký",
+                        "profile",
+                        "user"
+                  ],
+                  "examples": [
+                        "Làm sao đặt lại mật khẩu?",
+                        "Tôi không thể đăng nhập",
+                        "Tạo tài khoản như thế nào?"
+                  ]
+            },
+            "Hỏi đáp chung": {
+                  "keywords": [
+                        "là gì",
+                        "những gì",
+                        "thế nào",
+                        "cách nào",
+                        "giải thích"
+                  ],
+                  "examples": [
+                        "Sản phẩm của bạn là gì?",
+                        "Bạn có thể giải thích không?"
+                  ]
+            },
+            "Giao hàng và vận chuyển": {
+                  "keywords": [
+                        "giao hàng",
+                        "vận chuyển",
+                        "ship",
+                        "delivery",
+                        "nhận hàng",
+                        "thời gian giao",
+                        "tracking",
+                        "đơn hàng"
+                  ],
+                  "examples": [
+                        "Khi nào tôi nhận được hàng?",
+                        "Chi phí vận chuyển là bao nhiêu?",
+                        "Làm sao theo dõi đơn hàng?"
+                  ]
+            },
+            "Hoàn trả và đổi hàng": {
+                  "keywords": [
+                        "hoàn trả",
+                        "đổi hàng",
+                        "trả lại",
+                        "refund",
+                        "return",
+                        "không hài lòng",
+                        "sản phẩm lỗi"
+                  ],
+                  "examples": [
+                        "Làm sao để hoàn trả sản phẩm?",
+                        "Tôi có thể đổi hàng không?",
+                        "Chính sách hoàn tiền ra sao?"
+                  ]
+            },
+            "Hỗ trợ khách hàng": {
+                  "keywords": [
+                        "liên hệ",
+                        "hỗ trợ",
+                        "support",
+                        "help",
+                        "tư vấn",
+                        "hotline",
+                        "email",
+                        "chat"
+                  ],
+                  "examples": [
+                        "Làm sao liên hệ với bộ phận hỗ trợ?",
+                        "Số hotline là gì?",
+                        "Tôi cần trợ giúp ngay"
+                  ]
+            },
+            "Bảo hành và bảo trì": {
+                  "keywords": [
+                        "bảo hành",
+                        "bảo trì",
+                        "warranty",
+                        "sửa chữa",
+                        "thay thế",
+                        "bảo dưỡng",
+                        "hư hỏng"
+                  ],
+                  "examples": [
+                        "Thời gian bảo hành là bao lâu?",
+                        "Sản phẩm có được bảo hành không?",
+                        "Làm sao yêu cầu bảo hành?"
+                  ]
+            },
+            "Đặt hàng và mua hàng": {
+                  "keywords": [
+                        "đặt hàng",
+                        "mua",
+                        "order",
+                        "giỏ hàng",
+                        "checkout",
+                        "đặt mua",
+                        "đơn đặt"
+                  ],
+                  "examples": [
+                        "Làm sao đặt hàng?",
+                        "Tôi muốn mua sản phẩm này",
+                        "Cách thêm vào giỏ hàng?"
+                  ]
+            },
+            "Tích hợp và API": {
+                  "keywords": [
+                        "api",
+                        "tích hợp",
+                        "integration",
+                        "connect",
+                        "kết nối",
+                        "webhook",
+                        "sdk",
+                        "plugin"
+                  ],
+                  "examples": [
+                        "Có API không?",
+                        "Làm sao tích hợp với hệ thống?",
+                        "Tài liệu API ở đâu?"
+                  ]
+            },
+            "Bảo mật và quyền riêng tư": {
+                  "keywords": [
+                        "bảo mật",
+                        "security",
+                        "quyền riêng tư",
+                        "privacy",
+                        "dữ liệu",
+                        "an toàn",
+                        "mã hóa",
+                        "gdpr"
+                  ],
+                  "examples": [
+                        "Dữ liệu có được bảo mật không?",
+                        "Chính sách quyền riêng tư ra sao?",
+                        "Thông tin của tôi có an toàn không?"
+                  ]
+            },
+            "Đào tạo và hướng dẫn": {
+                  "keywords": [
+                        "hướng dẫn",
+                        "tutorial",
+                        "đào tạo",
+                        "training",
+                        "học",
+                        "tài liệu",
+                        "documentation",
+                        "video"
+                  ],
+                  "examples": [
+                        "Có tài liệu hướng dẫn không?",
+                        "Làm sao học cách sử dụng?",
+                        "Có video tutorial không?"
+                  ]
+            },
+            "Khuyến mãi và ưu đãi": {
+                  "keywords": [
+                        "khuyến mãi",
+                        "ưu đãi",
+                        "giảm giá",
+                        "promotion",
+                        "discount",
+                        "voucher",
+                        "coupon",
+                        "mã giảm giá"
+                  ],
+                  "examples": [
+                        "Có chương trình khuyến mãi nào không?",
+                        "Làm sao nhận mã giảm giá?",
+                        "Hiện tại có ưu đãi gì?"
+                  ]
+            },
+            "Thông số kỹ thuật": {
+                  "keywords": [
+                        "thông số",
+                        "specification",
+                        "cấu hình",
+                        "kỹ thuật",
+                        "chi tiết",
+                        "specs",
+                        "yêu cầu hệ thống"
+                  ],
+                  "examples": [
+                        "Thông số kỹ thuật là gì?",
+                        "Yêu cầu hệ thống tối thiểu?",
+                        "Cấu hình chi tiết của sản phẩm?"
+                  ]
+            },
+            "Thông tư và văn bản pháp luật": {
+                  "keywords": [
+                        "thông tư",
+                        "văn bản",
+                        "circular",
+                        "pháp luật",
+                        "quy định pháp luật",
+                        "văn bản quy phạm",
+                        "ban hành",
+                        "có hiệu lực"
+                  ],
+                  "examples": [
+                        "Thông tư số 15 quy định gì?",
+                        "Văn bản này có hiệu lực khi nào?",
+                        "Nội dung thông tư mới nhất là gì?"
+                  ]
+            },
+            "Nghị định và quyết định": {
+                  "keywords": [
+                        "nghị định",
+                        "quyết định",
+                        "decree",
+                        "decision",
+                        "NĐ-CP",
+                        "QĐ",
+                        "chính phủ ban hành",
+                        "thủ tướng"
+                  ],
+                  "examples": [
+                        "Nghị định 99 quy định về gì?",
+                        "Quyết định này áp dụng cho ai?",
+                        "Chính phủ ban hành nghị định nào?"
+                  ]
+            },
+            "Luật và pháp lệnh": {
+                  "keywords": [
+                        "luật",
+                        "pháp lệnh",
+                        "law",
+                        "ordinance",
+                        "quốc hội",
+                        "ủy ban thường vụ",
+                        "sửa đổi luật",
+                        "điều khoản"
+                  ],
+                  "examples": [
+                        "Luật này quy định như thế nào?",
+                        "Điều 15 của luật nói gì?",
+                        "Luật có hiệu lực từ khi nào?"
+                  ]
+            },
+            "Thủ tục hành chính": {
+                  "keywords": [
+                        "thủ tục",
+                        "hành chính",
+                        "procedure",
+                        "administrative",
+                        "hồ sơ",
+                        "giấy tờ",
+                        "nộp đơn",
+                        "trình tự"
+                  ],
+                  "examples": [
+                        "Thủ tục đăng ký kinh doanh như thế nào?",
+                        "Cần những giấy tờ gì?",
+                        "Làm thủ tục ở đâu?"
+                  ]
+            },
+            "Chính sách và quy định nhà nước": {
+                  "keywords": [
+                        "chính sách",
+                        "quy định",
+                        "policy",
+                        "regulation",
+                        "nhà nước",
+                        "chính phủ",
+                        "bộ",
+                        "ngành"
+                  ],
+                  "examples": [
+                        "Chính sách thuế mới ra sao?",
+                        "Quy định về lao động là gì?",
+                        "Bộ tài chính có quy định gì?"
+                  ]
+            },
+            "Giấy phép và chứng chỉ": {
+                  "keywords": [
+                        "giấy phép",
+                        "chứng chỉ",
+                        "license",
+                        "certificate",
+                        "cấp phép",
+                        "xin phép",
+                        "đăng ký",
+                        "chứng nhận"
+                  ],
+                  "examples": [
+                        "Làm sao xin giấy phép kinh doanh?",
+                        "Thời hạn giấy phép là bao lâu?",
+                        "Cần chứng chỉ gì để hành nghề?"
+                  ]
+            },
+            "Thuế và phí": {
+                  "keywords": [
+                        "thuế",
+                        "phí",
+                        "tax",
+                        "fee",
+                        "lệ phí",
+                        "khai thuế",
+                        "nộp thuế",
+                        "miễn thuế",
+                        "thuế suất"
+                  ],
+                  "examples": [
+                        "Thuế VAT là bao nhiêu?",
+                        "Khi nào phải nộp thuế?",
+                        "Cách tính phí lệ phí ra sao?"
+                  ]
+            },
+            "Quyền và nghĩa vụ công dân": {
+                  "keywords": [
+                        "quyền",
+                        "nghĩa vụ",
+                        "công dân",
+                        "rights",
+                        "obligations",
+                        "quyền lợi",
+                        "trách nhiệm",
+                        "pháp luật"
+                  ],
+                  "examples": [
+                        "Quyền của công dân là gì?",
+                        "Nghĩa vụ nào tôi phải thực hiện?",
+                        "Quyền lợi được bảo vệ như thế nào?"
+                  ]
+            },
+            "Khiếu nại và tố cáo": {
+                  "keywords": [
+                        "khiếu nại",
+                        "tố cáo",
+                        "complaint",
+                        "report",
+                        "giải quyết khiếu nại",
+                        "đơn thư",
+                        "phản ánh",
+                        "kiến nghị"
+                  ],
+                  "examples": [
+                        "Làm sao nộp đơn khiếu nại?",
+                        "Thời hạn giải quyết khiếu nại?",
+                        "Tôi muốn tố cáo vi phạm"
+                  ]
+            },
+            "Tra cứu và tra cứu văn bản": {
+                  "keywords": [
+                        "tra cứu",
+                        "tìm kiếm",
+                        "search",
+                        "lookup",
+                        "tra văn bản",
+                        "tìm thông tư",
+                        "kiểm tra",
+                        "xem văn bản"
+                  ],
+                  "examples": [
+                        "Tra cứu thông tư số 20 ở đâu?",
+                        "Tìm văn bản về thuế thu nhập?",
+                        "Làm sao tra cứu nghị định?"
+                  ]
+            }
+      }
+}
