@@ -1,6 +1,6 @@
 # Vietnamese RAG Question Classifier
 
-A production-ready RAG (Retrieval-Augmented Generation) system for classifying Vietnamese user questions, storing them in a local vector database, and analyzing them with semantic search capabilities.
+A production-ready RAG (Retrieval-Augmented Generation) system for classifying Vietnamese user questions and documents' answers, storing them in a local vector database, and analyzing them with semantic search capabilities.
 
 ## Features
 
