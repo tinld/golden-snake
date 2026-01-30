@@ -639,6 +639,24 @@ class PDFDocumentProcessor:
             "processing_time_seconds": round(processing_time, 2)
         }
     
+    def process_pdf_images(
+        self,
+        pdf_path: str,
+        max_pages: Optional[int] = None,
+        metadata: Optional[Dict] = None
+    ) -> Dict:
+        """
+        Process a PDF file that contains images only (scanned PDFs)
+        using OCR to extract text, then chunk, vectorize, and store.
+        
+        Args:
+            pdf_path: Path to PDF file
+            max_pages: Maximum number of pages to process
+            metadata: Additional metadata to store with chunks  
+        """
+        
+        return
+    
     def query_document(
         self,
         query: str,
